@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "How can I make the biggest difference I can?",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "We are a local group that discusses how best to do good. In particular, we focus on ideas of effective altruism.",
+    "Why": [
+      "poverty reduction",
+      "animal welfare",
+      "global health",
+      "dangers of artificial intelligence"
+      
+    ],
+    "Why2": [
+      "career choices",
+      "effective donations",
+      "scientific evidence",
+      "and many more topics"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-users",
+      "name": "Meetups",
+      "text": "Our regulars' table offers do-gooders the opportunity to exchange ideas in a cozy setting. Just join our Meetup event and drop by. Prior knowledge is not necessary. We are looking forward to new faces, you are also welcome to come with a companion."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Talks",
+      "text": "We organize talks on effective altruism or other social impact topics."
+    },
+    {
+      "icon": "fa fa-beer",
+      "name": "Social Meetings",
+      "text": "We also get together for social gatherings like board game nights, climbing or other fun activities."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Organizer and Co-Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "address": "Düsseldorf",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-heart",
+      "title": "It's important to help others",
+      "text": "When people are in need and we can help them, we think that we should."
+    },
+    {
+      "icon": "fa fa-child",
+      "title": "People are equal",
+      "text": "Everyone has an equal claim to being happy, healthy, fulfilled and free, whatever their circumstances."
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "title": "Helping more is better than helping less",
+      "text": "All else being equal, we should save more lives, help people live longer, and make more people happier."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "title": "Our resources are limited",
+      "text": "Choosing to spend money or time on one option is an implicit choice not to spend it on other options."
+    }
+  ]
+}
