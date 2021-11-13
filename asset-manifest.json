@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DoingGoodTogether/static/css/main.83b5dced.chunk.css",
+    "main.js": "/DoingGoodTogether/static/js/main.f26f8557.chunk.js",
+    "main.js.map": "/DoingGoodTogether/static/js/main.f26f8557.chunk.js.map",
+    "runtime-main.js": "/DoingGoodTogether/static/js/runtime-main.1c421fab.js",
+    "runtime-main.js.map": "/DoingGoodTogether/static/js/runtime-main.1c421fab.js.map",
+    "static/js/2.100afaef.chunk.js": "/DoingGoodTogether/static/js/2.100afaef.chunk.js",
+    "static/js/2.100afaef.chunk.js.map": "/DoingGoodTogether/static/js/2.100afaef.chunk.js.map",
+    "index.html": "/DoingGoodTogether/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/DoingGoodTogether/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.100afaef.chunk.js.LICENSE.txt": "/DoingGoodTogether/static/js/2.100afaef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c421fab.js",
+    "static/js/2.100afaef.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.f26f8557.chunk.js"
+  ]
+}
