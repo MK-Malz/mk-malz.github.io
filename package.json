@@ -1,7 +1,7 @@
 {
-  "name": "landingpage-react-template",
+  "homepage": "https://mk-malz.github.io/DoingGoodTogether/",
+  "name": "doinggoodtogether",
   "private": true,
-  "homepage": "https://MK-Malz.github.io/DoingGoodTogether",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
