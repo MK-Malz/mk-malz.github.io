@@ -152,8 +152,9 @@ export const Contact = (props) => {
           <p>
             &copy; 2021 Doing Good Together Düsseldorf | &nbsp;
             <a href='' rel='nofollow'>
-              Datenschutz
-            </a>
+              Impressum</a><br />
+              Built using the <a href='https://github.com/issaafalkattan/React-Landing-Page-Template' rel='nofollow'>"React Land Page Template"</a> Theme by Issaaf Kattan.
+            
           </p>
         </div>
       </div>
