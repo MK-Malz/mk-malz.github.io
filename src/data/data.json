@@ -66,7 +66,7 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
+  "Activities": [
     {
       "icon": "fa fa-users",
       "name": "Meetups",
@@ -140,7 +140,7 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Introduction": [
     {
       "icon": "fa fa-heart",
       "title": "It's important to help others",

@@ -1,6 +1,6 @@
-export const Features = (props) => {
+export const Introduction = (props) => {
   return (
-    <div id='features' className='text-center'>
+    <div id='introduction' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
           <h2>Introduction</h2>
