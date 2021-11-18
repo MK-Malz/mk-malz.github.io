@@ -30,12 +30,14 @@ export const About = (props) => {
                         ))
                       : "loading"}
                   </ul>
-                </div>
+                  <br/>
+                </div> 
               </div>
-            </div>
+            </div>  
+            <div className="about-text"><p><i class="fa fa-calendar" aria-hidden="true"></i>  If you want to stop by, feel free to check out our next event on Meetup.</p></div>
           </div>
         </div>
-      </div>
+      </div> 
     </div>
   );
 };

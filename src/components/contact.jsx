@@ -105,14 +105,14 @@ export const Contact = (props) => {
                 {props.data ? props.data.address : 'loading'}
               </p>
             </div>
-            <div className='contact-item'>
+            {/*<div className='contact-item'>
               <p>
                 <span>
                   <i className='fa fa-phone'></i> Phone
                 </span>{' '}
                 {props.data ? props.data.phone : 'loading'}
               </p>
-            </div>
+            </div>*/}
             <div className='contact-item'>
               <p>
                 <span>
@@ -122,10 +122,16 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          {/*<div className='col-md-12'>
+          {/*<div className='col-md-11'>
             <div className='row'>
               <div className='social'>
                 <ul>
+                  <li>
+                    <a href={props.data ? props.data.meetup : '/'}>
+                      <i className='fa fa-hand-o-right'></i>
+                    </a>
+                     Join our Meetup!
+                  </li>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'}>
                       <i className='fa fa-facebook'></i>
@@ -151,7 +157,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2021 Doing Good Together Düsseldorf | &nbsp;
-            <a href='' rel='nofollow'>
+            <a href='/impressum' rel='nofollow'>
               Impressum</a><br />
               Built using the <a href='https://github.com/issaafalkattan/React-Landing-Page-Template' rel='nofollow'>"React Land Page Template"</a> Theme by Issaaf Kattan.
             

@@ -70,12 +70,12 @@
     {
       "icon": "fa fa-users",
       "name": "Meetups",
-      "text": "Our regulars' table offers do-gooders the opportunity to exchange ideas in a cozy setting. Just join our Meetup event and drop by. Prior knowledge is not necessary. We are looking forward to new faces, you are also welcome to come with a companion."
+      "text": "Our regulars' table offers do-gooders the opportunity to exchange ideas in a cozy setting. Simply join our Meetup event and drop by. Prior knowledge is not necessary."
     },
     {
       "icon": "fa fa-bullhorn",
       "name": "Talks",
-      "text": "We organize talks on effective altruism or other social impact topics."
+      "text": "We organize talks on effective altruism and other social impact topics."
     },
     {
       "icon": "fa fa-beer",
@@ -133,12 +133,13 @@
     }
   ],
   "Contact": {
-    "address": "Düsseldorf",
+    "address": "We are located in Düsseldorf",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "youtube.com",
+    "meetup": "www.meetup.com"
   },
   "Introduction": [
     {

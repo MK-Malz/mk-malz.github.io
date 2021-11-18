@@ -6,7 +6,7 @@ export const Introduction = (props) => {
           <h2>Introduction</h2>
             <div>
               <p>
-                Here are four ideas that you probably already agree with. Three are about your values, and one is an observation about the world. Individually, they each might seem a bit trite or self-evident. But taken together, they have significant implications for how we think about doing good in the world. (Source: <a href="https://www.givingwhatwecan.org/post/2016/03/four-things-you-already-agree-with-effective-altruism/" target="_blank">givingwhatwecan.org</a>)
+                Here are four ideas that you probably already agree with. Three are about your values, and one is an observation about the world. Individually, they each might seem a bit trite or self-evident. But taken together, they have significant implications for how we think about doing good in the world. <br />(Source: <a href="https://www.givingwhatwecan.org/post/2016/03/four-things-you-already-agree-with-effective-altruism/" target="_blank">givingwhatwecan.org</a>)
               </p>
           </div>
         </div>
