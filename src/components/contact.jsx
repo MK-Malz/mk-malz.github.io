@@ -19,6 +19,12 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     console.log(name, email, message)
+
+    let messageicon = document.getElementById("messageicon");
+    messageicon.className = "fa fa-cog fa-spin fa-3x fa-fw";
+    document.getElementById("messagestatus").innerHTML = "Please wait while your message is being sent..."
+    document.getElementById("myBtn").disabled = true;
+
     emailjs
       .sendForm(
         'service_0qz3for', 'template_yodovl9', e.target, 'user_ZfZ1D3owUD1qkrxQi00dM'
@@ -27,11 +33,16 @@ export const Contact = (props) => {
         (result) => {
           console.log(result.text)
           clearState()
-          alert("great success")
+
+          var messageicon = document.getElementById("messageicon");
+          messageicon.className = "fa fa-check-square-o";
+          document.getElementById("messagestatus").innerHTML = " Your message was sent successfully!"
+          document.getElementById("myBtn").disabled = false;
 
         },
         (error) => {
           console.log(error.text)
+          document.getElementById("messagestatus").innerHTML = error.text
         }
       )
   }
@@ -92,10 +103,12 @@ export const Contact = (props) => {
                   <p className='help-block text-danger'></p>
                 </div>
                 <div id='success'></div>
-                <button type='submit' className='btn btn-custom btn-lg'>
+                <button type='submit' className='btn btn-custom btn-lg' id ='myBtn'>
                   Send Message
                 </button>
+                 <p><i id="messageicon"></i><span id="messagestatus"></span></p>
               </form>
+              
             </div>
           </div>
           <div className='col-md-3 col-md-offset-1 contact-info'>
