@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from "react-router-dom";
 import emailjs from 'emailjs-com'
 
 const initialState = {
@@ -20,12 +21,14 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_0qz3for', 'template_yodovl9', e.target, 'user_ZfZ1D3owUD1qkrxQi00dM'
       )
       .then(
         (result) => {
           console.log(result.text)
           clearState()
+          alert("great success")
+
         },
         (error) => {
           console.log(error.text)
@@ -45,7 +48,7 @@ export const Contact = (props) => {
                   get back to you as soon as possible.
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form name='sentMessage' onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
@@ -157,9 +160,8 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2021 Doing Good Together Düsseldorf | &nbsp;
-            <a href='/impressum' rel='nofollow'>
-              Impressum</a><br />
-              Built using the <a href='https://github.com/issaafalkattan/React-Landing-Page-Template' rel='nofollow'>"React Land Page Template"</a> Theme by Issaaf Kattan.
+            <Link to="/Impressum">Impressum und Datenschutz</Link><br />
+              Built using the <a target="_blank" rel="noopener noreferrer" href='https://github.com/issaafalkattan/React-Landing-Page-Template'>"React Land Page Template"</a> Theme by Issaaf Kattan.
             
           </p>
         </div>

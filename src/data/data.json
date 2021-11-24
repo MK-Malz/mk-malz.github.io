@@ -4,7 +4,7 @@
     "paragraph": ""
   },
   "About": {
-    "paragraph": "We are a local group that discusses how best to do good. In particular, we focus on ideas of effective altruism.",
+    "paragraph": "We are a local group that discusses how to best do good. In particular, we focus on ideas of effective altruism.",
     "Why": [
       "poverty reduction",
       "animal welfare",
@@ -118,24 +118,24 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Lucas Eichhorn",
       "job": "Organizer and Co-Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Malte Klane",
+      "job": "Organizer and Co-Founder"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Mundher Alawi Al-Ahmadi",
+      "job": "Host and Co-Founder"
     }
   ],
   "Contact": {
     "address": "We are located in Düsseldorf",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "info@doinggoodtogether.de",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com",
