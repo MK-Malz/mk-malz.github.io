@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DoingGoodTogether/static/css/main.83b5dced.chunk.css",
-    "main.js": "/DoingGoodTogether/static/js/main.804a9f2e.chunk.js",
-    "main.js.map": "/DoingGoodTogether/static/js/main.804a9f2e.chunk.js.map",
+    "main.js": "/DoingGoodTogether/static/js/main.799dadf8.chunk.js",
+    "main.js.map": "/DoingGoodTogether/static/js/main.799dadf8.chunk.js.map",
     "runtime-main.js": "/DoingGoodTogether/static/js/runtime-main.1c421fab.js",
     "runtime-main.js.map": "/DoingGoodTogether/static/js/runtime-main.1c421fab.js.map",
     "static/js/2.04a01229.chunk.js": "/DoingGoodTogether/static/js/2.04a01229.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1c421fab.js",
     "static/js/2.04a01229.chunk.js",
     "static/css/main.83b5dced.chunk.css",
-    "static/js/main.804a9f2e.chunk.js"
+    "static/js/main.799dadf8.chunk.js"
   ]
 }
