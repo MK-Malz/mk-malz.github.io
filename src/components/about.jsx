@@ -34,7 +34,7 @@ export const About = (props) => {
                 </div> 
               </div>
             </div>  
-            <div className="about-text"><p><i className="fa fa-calendar" aria-hidden="true"></i>  If you want to stop by, feel free to check out our next event on <a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/de-DE/doing-good-together-dusseldorf/events/">Meetup</a>.</p></div>
+            <div className="about-text"><p>If you want to stop by, feel free to check out our next event on<a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/de-DE/doing-good-together-dusseldorf/events/"> Meetup </a><i className="fa fa-calendar" aria-hidden="true"></i></p></div>
           </div>
         </div>
       </div> 

@@ -64,10 +64,10 @@ export const Impressum = (props) => {
   </ul>
   <h2 id="angaben-gemäß-5-tmg">Angaben gemäß §5 TMG</h2>
 <strong>Doing Good Together Düsseldorf</strong><br />
-Adresse
+Adresse<br />
 Düsseldorf
-<p>E-Mail: <a href="mailto:mailadresse"><a href="mailto:mailadresse">mailadresse</a></a></p>
-<p>Amtsgericht Köln, VR 20655</p>
+<p>E-Mail: <a href="mailto:info@doinggoodtogether.de"><a href="mailto:info@doinggoodtogether.de">info@doinggoodtogether.de</a></a></p>
+<p></p>
 <h2 id="verantwortlich-für-den-inhalt-nach--55-abs-2-rstv">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 <p>Malte Klane</p>
 Vertragsnummer<br />
