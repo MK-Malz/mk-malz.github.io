@@ -18,7 +18,6 @@ export default function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/impressum" element={<Impressum />} />
       </Routes>
-      <Home />
     </div>
   );
 }
