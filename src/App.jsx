@@ -13,11 +13,11 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 export default function App() {
   return (
     <div>
-      {/*<Routes>
+      <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="/impressum" element={<Impressum />} />
-      </Routes>*/}
+      </Routes>
       <Home />
     </div>
   );
