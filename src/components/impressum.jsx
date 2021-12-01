@@ -62,17 +62,15 @@ export const Impressum = (props) => {
       </ul>
     </li>
   </ul>
-  <h2 id="angaben-gemäß-5-tmg">Angaben gemäß §5 TMG</h2>
+  <h2>Kontakt</h2>
 <strong>Doing Good Together Düsseldorf</strong><br />
-Adresse<br />
-Düsseldorf
 <p>E-Mail: <a href="mailto:info@doinggoodtogether.de"><a href="mailto:info@doinggoodtogether.de">info@doinggoodtogether.de</a></a></p>
 <p></p>
 <h2 id="verantwortlich-für-den-inhalt-nach--55-abs-2-rstv">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 <p>Malte Klane</p>
-Vertragsnummer<br />
-Adresse<br />
-Düsseldorf
+c/o Grosch Postflex #1930<br />
+Emsdettener Str. 10<br />
+48268 Greven<br />
 <h2 id="haftungsausschluss">Haftungsausschluss</h2>
 <h3 id="1-haftung-für-inhalte">1. Haftung für Inhalte</h3>
 <p>Die Inhalte unseres Onlineangebots wurden nach bestem Wissen und Gewissen zusammengestellt. Wir übernehmen jedoch keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen uns, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.</p>
@@ -123,8 +121,7 @@ Düsseldorf
     href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311886100"
     target="_blank"
     rel="noopener noreferrer"
-    > Datenschutz-Grundverordnung (EU) 2016/679</a
-  >
+    > Datenschutz-Grundverordnung (EU) 2016/679 </a>
   und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen
   Daten (kurz Daten) wir als Verantwortliche &#8211; und die von uns
   beauftragten Auftragsverarbeiter (z. B. Provider) &#8211; verarbeiten,
@@ -172,9 +169,9 @@ Düsseldorf
     href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311886100"
     target="_blank"
     rel="noopener noreferrer"
-    > https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679</a
+    > https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679 </a
   >
-  nachlesen.
+   nachlesen.
 </p>
 <p>
   Wir verarbeiten Ihre Daten nur, wenn mindestens eine der folgenden Bedingungen
@@ -246,9 +243,11 @@ Düsseldorf
 <p>
   Sollten Sie Fragen zum Datenschutz haben, finden Sie nachfolgend die
   Kontaktdaten der verantwortlichen Person bzw. Stelle:<br />
-  <span className="adsimple-311886100" style={{fontWeight: "400"}}>Doing Good Together Düsseldorf<br />
+  <span className="adsimple-311886100" style={{fontWeight: "400"}}><br />
     Malte Klane<br />
-    Adresse, Düsseldorft, Deutschland</span>
+    c/o Grosch Postflex #1930<br />
+    Emsdettener Str. 10<br />
+    48268 Greven<br /></span>
   
   <br />
   E-Mail: <a href="mailto:info@doinggoodtogether.de">info@doinggoodtogether.de</a>
@@ -383,7 +382,7 @@ Düsseldorf
     target="_blank"
     rel="noopener noreferrer"
     > Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
-    (BfDI)</a
+    (BfDI) </a
   >
   wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde
   zuständig:
@@ -600,7 +599,7 @@ Düsseldorf
   Wenn Sie mehr über Font Awesome und deren Umgang mit Daten erfahren wollen,
   empfehlen wir Ihnen die Datenschutzerklärung unter
   <a className="adsimple-311886100" href="https://fontawesome.com/privacy"
-    >https://fontawesome.com/privacy</a
+    > https://fontawesome.com/privacy</a
   >
   und die Hilfeseite unter
   <a
