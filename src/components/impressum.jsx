@@ -50,7 +50,7 @@ export const Impressum = (props) => {
                <div className='col-md-8 col-md-offset-2 intro-text'> 
                <h1>Inhaltsverzeichnis</h1>
 <ul>
-    <li><a href="#angaben-gemäß-5-tmg">Angaben gemäß §5 TMG</a></li>
+    <li><a href="#kontakt">Kontakt</a></li>
     <li><a href="#verantwortlich-für-den-inhalt-nach--55-abs-2-rstv">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</a></li>
     <li><a href="#haftungsausschluss">Haftungsausschluss</a>
       <ul>
@@ -62,7 +62,7 @@ export const Impressum = (props) => {
       </ul>
     </li>
   </ul>
-  <h2>Kontakt</h2>
+  <h2 id="kontakt">Kontakt</h2>
 <strong>Doing Good Together Düsseldorf</strong><br />
 <p>E-Mail: <a href="mailto:info@doinggoodtogether.de"><a href="mailto:info@doinggoodtogether.de">info@doinggoodtogether.de</a></a></p>
 <p></p>
