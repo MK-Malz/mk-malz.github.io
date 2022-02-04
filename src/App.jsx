@@ -4,7 +4,7 @@ import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 
-export const scroll = new SmoothScroll('a[href*="#"]', {
+export const scroll = new SmoothScroll('Link[to*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 });

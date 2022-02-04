@@ -12,7 +12,12 @@ import JsonData from "../data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
 
-export const scroll = new SmoothScroll('a[href*="#"]', {
+/*export const scroll = new SmoothScroll('a[href*="#"]', {
+  speed: 1000,
+  speedAsDuration: true,
+});*/
+
+export const scroll = new SmoothScroll('Link[to*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 });

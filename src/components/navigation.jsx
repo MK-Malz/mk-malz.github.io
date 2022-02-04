@@ -1,3 +1,4 @@
+import { HashLink as Link } from 'react-router-hash-link';
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,9 +16,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <Link className='navbar-brand page-scroll'to='#page-top'>
             Doing <span style={{color: "orange"}}> Good</span>  <br />Together <br /><span style={{color: "orange"}}>Düsseldorf</span>
-          </a>{' '}
+          </Link>{' '}
         </div>
 
         <div
@@ -26,42 +27,42 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#introduction' className='page-scroll'>
+              <Link to='#introduction' className='page-scroll'>
                 Introduction
-              </a>
+              </Link>
             </li>
             <li>
-              <a href='#about' className='page-scroll'>
+              <Link to='#about' className='page-scroll'>
                 About us
-              </a>
+              </Link>
             </li>
             <li>
-              <a href='#activities' className='page-scroll'>
+              <Link to='#activities' className='page-scroll'>
                 Activities
-              </a>
+              </Link>
             </li>
             {/*
             <li>
-              <a href='#portfolio' className='page-scroll'>
+              <Link to='#portfolio' className='page-scroll'>
                 Gallery
-              </a>
+              </Link>
             </li>
             
             <li>
-              <a href='#testimonials' className='page-scroll'>
+              <Link to='#testimonials' className='page-scroll'>
                 Testimonials
-              </a>
+              </Link>
             </li>
             */}
             <li>
-              <a href='#team' className='page-scroll'>
+              <Link to='#team' className='page-scroll'>
                 Team
-              </a>
+              </Link>
             </li>
             <li>
-              <a href='#contact' className='page-scroll'>
+              <Link to='#contact' className='page-scroll'>
                 Contact
-              </a>
+              </Link>
             </li>
           </ul>
          
