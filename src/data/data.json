@@ -1,4 +1,17 @@
 {
+  "SEO" : {
+    "description" : "We are a local group that discusses how to best do good." ,
+    "title" : "Doing Good Together Düsseldorf" ,
+    "someUrl" : "www.doinggoodtogether.de" ,
+    "someArticle" : "Website" ,
+    "someTitle" : "Doing Good Together Düsseldorf" ,
+    "someDescription" : "We are a local group that discusses how to best do good." ,
+    "someImage" : "" ,
+    "someFbAppId" : "" ,
+    "someSummary" : "In particular we focus on ideas of effective altruism, a social movement which applies evidence and reason to determining the most effective ways to improve the world" ,
+    "someAuthorName" : "Doing Good Together Düsseldorf" ,
+    "keywords": "Effective Altruism, Effektiver Altruismus, Spenden, Düsseldorf, social impact, Doing good better, doing good together, 80.000, EA, rationality"
+  },
   "Header": {
     "title": "How can I make the biggest difference I can?",
     "paragraph": ""

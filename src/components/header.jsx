@@ -1,3 +1,4 @@
+import { HashLink as Link } from 'react-router-hash-link';
 export const Header = (props) => {
   return (
     <header id='header'>
@@ -11,12 +12,19 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
-                <a
+                {/*<a
                   href='#introduction'
                   className='btn btn-custom btn-lg page-scroll'
-                >
-                  Learn More
-                </a>{' '}
+  >Learn More</a>{' '}*/}
+                  <Link
+                  to='#introduction'
+                  className='btn btn-custom btn-lg page-scroll'
+  >
+                   
+                Learn More
+              </Link>
+                  
+                
               </div>
             </div>
           </div>

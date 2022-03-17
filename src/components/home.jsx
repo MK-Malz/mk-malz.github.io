@@ -8,6 +8,7 @@ import { Activities } from "./activities";
 //import { Testimonials } from "./components/testimonials";
 import { Team } from "./Team";
 import { Contact } from "./contact";
+import { SEO } from "./seo";
 import JsonData from "../data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
@@ -30,6 +31,7 @@ export const Home = () => {
 
   return (
     <div>
+      <SEO data={landingPageData.SEO}/>
       <Navigation />
       <Header data={landingPageData.Header} />
       <Introduction data={landingPageData.Introduction} />

@@ -29,7 +29,7 @@ export const Navigation = (props) => {
             <li>
               <Link to='#introduction' className='page-scroll'>
                 Introduction
-              </Link>
+  </Link>
             </li>
             <li>
               <Link to='#about' className='page-scroll'>
