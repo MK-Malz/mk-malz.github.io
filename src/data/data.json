@@ -143,6 +143,11 @@
       "img": "img/team/03.jpg",
       "name": "Mundher Alawi Al-Ahmadi",
       "job": "Host and Co-Founder"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Max Hasin",
+      "job": "Organizer"
     }
   ],
   "Contact": {
