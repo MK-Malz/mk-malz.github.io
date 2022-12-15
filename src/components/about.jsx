@@ -34,9 +34,12 @@ export const About = (props) => {
                 </div> 
               </div>
             </div>  
-            <div className="about-text"><p>If you want to stop by, feel free to check out our next event on<a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/de-DE/doing-good-together-dusseldorf/events/"> Meetup </a><i className="fa fa-calendar" aria-hidden="true"></i> or join our <a target="_blank" rel="noopener noreferrer" href="https://chat.whatsapp.com/BbVAaho2tbnA9l3IsDb7tT"> WhatsApp Group </a><i className='fa fa-phone'></i></p></div>
+          
           </div>
         </div>
+        <br/>
+        <br/>
+        <div className="about-text"><h3><i className="fa fa-hand-o-right" aria-hidden="true"></i> If you want to stop by, feel free to check out our next event on<a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/de-DE/doing-good-together-dusseldorf/events/"> Meetup </a><i className="fa fa-calendar" aria-hidden="true"></i> or join our <a target="_blank" rel="noopener noreferrer" href="https://chat.whatsapp.com/BbVAaho2tbnA9l3IsDb7tT"> WhatsApp Group </a><i className='fa fa-phone'></i></h3></div>
       </div> 
     </div>
   );
